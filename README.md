@@ -32,7 +32,6 @@
 
 ## 📸 Project Snapshots
 
-*(Please upload your screenshots to a `screenshots` folder in your repository)*
 
 | Login Screen | Dashboard |
 |:---:|:---:|
