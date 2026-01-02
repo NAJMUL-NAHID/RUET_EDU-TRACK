@@ -9,7 +9,7 @@
 ## 📖 Overview
 
 **RUET EduTrack** is a desktop-based education tracking system developed to streamline academic management. It allows administrators to manage student details, course information, and academic results efficiently. The system features a secure login with OTP recovery, automated CGPA calculation, and PDF report generation.
-
+This is an academic python project using python and sqlite3
 ## ✨ Key Features
 
 * **🔐 Secure Authentication:**
